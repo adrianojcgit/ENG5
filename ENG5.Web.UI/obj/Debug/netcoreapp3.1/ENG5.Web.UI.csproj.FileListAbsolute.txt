@@ -1,0 +1,8 @@
+C:\Adriano\Projetos\ENG5\ENG5.Web.UI\obj\Debug\netcoreapp3.1\ENG5.Web.UI.csproj.AssemblyReference.cache
+C:\Adriano\Projetos\ENG5\ENG5.Web.UI\obj\Debug\netcoreapp3.1\ENG5.Web.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Adriano\Projetos\ENG5\ENG5.Web.UI\obj\Debug\netcoreapp3.1\ENG5.Web.UI.AssemblyInfoInputs.cache
+C:\Adriano\Projetos\ENG5\ENG5.Web.UI\obj\Debug\netcoreapp3.1\ENG5.Web.UI.AssemblyInfo.cs
+C:\Adriano\Projetos\ENG5\ENG5.Web.UI\obj\Debug\netcoreapp3.1\ENG5.Web.UI.csproj.CoreCompileInputs.cache
+C:\Adriano\Projetos\ENG5\ENG5.Web.UI\obj\Debug\netcoreapp3.1\ENG5.Web.UI.MvcApplicationPartsAssemblyInfo.cache
+C:\Adriano\Projetos\ENG5\ENG5.Web.UI\obj\Debug\netcoreapp3.1\ENG5.Web.UI.RazorAssemblyInfo.cache
+C:\Adriano\Projetos\ENG5\ENG5.Web.UI\obj\Debug\netcoreapp3.1\ENG5.Web.UI.RazorAssemblyInfo.cs

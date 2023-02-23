@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ENG5.Domain/1.0.0": {
+        "runtime": {
+          "ENG5.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ENG5.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
